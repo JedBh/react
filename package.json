@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "here I'll be learning react",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JedBh/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JedBh/react/issues"
+  },
+  "homepage": "https://github.com/JedBh/react#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.2",
+    "method-override": "^3.0.0"
+  }
+}
